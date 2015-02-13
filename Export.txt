@@ -1,0 +1,469 @@
+﻿@online{4950,
+   author = {Amtliches Bulletin},
+   title = {Motion Sommaruga Simonetta. Transparenz Im Ständerat},
+   url = {http://www.parlament.ch/ab/data/d/s/4710/213938/d_s_4710_213938_213981.htm},
+   urldate = {25.06.2012},
+   year = {2005}
+
+}
+
+@online{4949,
+   author = {Amtliches Bulletin},
+   title = {Parlamentarische Initiative Jenny This. Transparentes Abstimmungsverhalten},
+   url = {http://www.parlament.ch/ab/data/d/s/4904/383503/d_s_4904_383503_383749.htm},
+   urldate = {25.06.2012},
+   year = {2012}
+
+}
+
+@unpublished{5081,
+   author = {Bailer, Stefanie and Bütikofer, Sarah and Hug, Simon and Schulz, Tobias},
+   title = {Preferences, Party Discipline and Constituency Pressure in Swiss Parliamentary Decisions},
+   titleaddon = {Paper presented at the 66th Annual National Conference of the MPSA, Chicago, Illinois, April 3-6, 2008},
+   year = {2008}
+}
+
+@book{5160,
+   author = {Bütikofer, Sarah},
+   title = {Das Schweizer Parlament Eine Institution auf dem Pfad der Moderne},
+   publisher = {Nomos},
+   address = {Baden-Baden},
+   year = {2014}
+}
+
+@article{4885,
+   author = {Bütikofer, Sarah and Hug, Simon},
+   title = {The Swiss Upper House: ‘Chambre De Réflexion’ or Conservative Renegades?},
+   journal = {The Journal of Legislative Studies},
+   volume = {16},
+   number = {2},
+   pages = {176-194},
+   year = {2010}
+}
+
+@article{4939,
+   author = {Bütikofer, Sarah and Hug, Simon},
+   title = {Licht in die "Dunkelkammer". Neue Erkenntnisse zum Abstimmungsverhalten Im Ständerat},
+   journal = {Neue Zürcher Zeitung},
+   pages = {24},
+   month = {20.11.2011},
+   entrysubtype = {newspapers},
+   year = {2011}
+}
+
+@article{4938,
+   author = {Bütikofer, Sarah and Hug, Simon and Martin, Danielle},
+   title = {Koalitionen Im Stöckli},
+   journal = {Neue Zürcher Zeitung},
+   pages = {13},
+   month = {13.10.2011},
+   entrysubtype = {newspapers},
+   year = {2011}
+}
+
+@book{5189,
+   author = {Carey, John M.},
+   title = {Legislative Voting and Accountability},
+   publisher = {Cambridge University Press},
+   address = {Cambridge, UK},
+   year = {2008}
+}
+
+@article{5073,
+   author = {Carrubba, Clifford J. and Gabel, Matthew and Murrah, Lacey and Clough, Ryan and Montgomery, Elizabeth and Schambach, Rebecca},
+   title = {Off the Record: Unrecorded Legislative Votes, Selection Bias and Roll-Call Vote Analysis},
+   journal = {British Journal of Political Science},
+   volume = {36},
+   number = {04},
+   pages = {691-704},
+   year = {2006}
+}
+
+@article{5164,
+   author = {De Haan, Jakob},
+   title = {The European Central Bank: Independence, Accountability and Strategy: A Review},
+   journal = {Public Choice},
+   volume = {93},
+   number = {3/4},
+   pages = {395-426},
+   year = {1997}
+}
+
+@online{4942,
+   author = {Eichenberger, Reiner and Portmann, Marco and Stadelmann, David},
+   title = {Die Wahlkreisgrösse Prägt den Einfluss Von Mehrheitspräferenzen. Ein Vergleich Von Volksabstimmungen und Parlamentsentscheiden},
+   url = {http://oekonomenstimme.org/a/153/},
+   urldate = {08.09.2011},
+   year = {2011}
+
+}
+
+@article{4943,
+   author = {Eichenberger, Reiner and Stadelmann, David and Portmann, Marco},
+   title = {Dunkelkammer Mit Videoüberwachung},
+   journal = {Weltwoche},
+   pages = {44},
+   month = {20.10.2011},
+   entrysubtype = {newspapers},
+   year = {2011}
+}
+
+@article{4941,
+   author = {Eichenberger, Reiner and Stadelmann, David and Portmann, Marco},
+   title = {Ständerat Am Puls des Volks},
+   journal = {NZZ am Sonntag},
+   pages = {15},
+   month = {28.08.2011},
+   entrysubtype = {newspapers},
+   year = {2011}
+}
+
+@article{4955,
+   author = {Eichenberger, Reiner and Stadelmann, David and Portmann, Marco},
+   title = {A Comparative Analysis of the Voting Behavior of Constituents and Their Representatives for Public Debts},
+   journal = {Constitutional Political Economy},
+   volume = {23},
+   number = {3},
+   pages = {244-260},
+   year = {2012}
+}
+
+@unpublished{5059,
+   author = {Fivaz, Jan and Louwerse, Tom and Schwarz, Daniel},
+   title = {Keeping Promises: VAAs and Political Representation},
+   titleaddon = {Paper presented at the VAA book workshop 2013, IDHEAP (University of Lausanne), May 1-2, 2013},
+   year = {2013}
+}
+
+@article{5165,
+   author = {Geraats, Petra M.},
+   title = {Central Bank Transparency},
+   journal = {The Economic Journal},
+   volume = {112},
+   number = {483},
+   pages = {F532-F565},
+   year = {2002}
+}
+
+@article{5070,
+   author = {Gersbach, Hans and Hahn, Volker},
+   title = {Should the Individual Voting Records of Central Bankers Be Published?},
+   journal = {Social Choice and Welfare},
+   volume = {30},
+   number = {4},
+   pages = {655-683},
+   year = {2008}
+}
+
+@article{5071,
+   author = {Gersbach, Hans and Hahn, Volker},
+   title = {Voting Transparency in a Monetary Union},
+   journal = {Journal of Money, Credit and Banking},
+   volume = {41},
+   number = {5},
+   pages = {831-853},
+   year = {2009}
+}
+
+@article{5191,
+   author = {Hix, Simon},
+   title = {Parliamentary Behavior with Two Principals: Preferences, Parties, and Voting in the European Parliament},
+   journal = {American Journal of Political Science},
+   volume = {46},
+   number = {3},
+   pages = {688-698},
+   year = {2002}
+}
+
+@unpublished{5072,
+   author = {Hix, Simon and Noury, Abdul and Roland, Gerard},
+   title = {Is There a Strategic Selection Bias in Roll Call Votes? Evidence from the European Parliament},
+   titleaddon = {Working Paper},
+   address = {London School of Economics and Political Science, New York University, University of California, Berkeley},
+   year = {2013}
+}
+
+@article{5188,
+   author = {Holmström, Bengt},
+   title = {Moral Hazard and Observability},
+   journal = {The Bell Journal of Economics},
+   volume = {10},
+   number = {1},
+   pages = {74-91},
+   year = {1979}
+}
+
+@article{4886,
+   author = {Hug, Simon},
+   title = {Selection Effects in Roll Call Votes},
+   journal = {British Journal of Political Science},
+   volume = {40},
+   number = {01},
+   pages = {225-235},
+   year = {2009}
+}
+
+@unpublished{4945,
+   author = {Hug, Simon},
+   title = {Understanding Roll Call Vote Requests and Their Consequences},
+   titleaddon = {SNF Project Description},
+   address = {University of Geneva},
+   year = {2009}
+}
+
+@inbook{4884,
+   author = {Hug, Simon},
+   title = {Strategic Voting in a Bicameral Setting},
+   booktitle = {Reform Processes and Policy Change},
+   editor = {König, Thomas and Debus, Marc and Tsebelis, George},
+   series = {Studies in Public Choice},
+   publisher = {New York:Springer },
+   pages = {231-245},
+   year = {2010}
+}
+
+@unpublished{4946,
+   author = {Hug, Simon},
+   title = {Understanding Roll Call Vote Requests and Their Consequences},
+   titleaddon = {SNF Project First Intermediary Report},
+   address = {University of Geneva},
+   year = {2011}
+}
+
+@unpublished{5074,
+   author = {Hug, Simon},
+   title = {The European Parliament after Lisbon (and before)},
+   titleaddon = {Paper presented at the EUDO 2012 Dissemination Conference "The Euro Crisis and the State of European Democracy", San Domenico di Fiesole, Italy, 22-23.11.2012},
+   year = {2012}
+}
+
+@article{4940,
+   author = {Hug, Simon},
+   title = {Pourquoi Le Conseil des Etats Persiste-T-Il À Voter À Main Levée?},
+   journal = {Le Temps},
+   pages = {13},
+   month = {08.06.2012},
+   entrysubtype = {newspapers},
+   year = {2012}
+}
+
+@unpublished{4947,
+   author = {Hug, Simon},
+   title = {Understanding Roll Call Vote Requests and Their Consequences},
+   titleaddon = {SNF Project Second Intermediary Report},
+   address = {University of Geneva},
+   year = {2012}
+}
+
+@unpublished{4944,
+   author = {Hug, Simon and Martin, Danielle},
+   title = {Constituency Preferences and MP Preferences: The Electoral Connection},
+   titleaddon = {Paper presented at the Annual Meeting of the Midwest Political Science Association, Chicago, March 31- April 3, 2011},
+   year = {2011}
+}
+
+@article{4881,
+   author = {Lee, David S. and Moretti, Enrico and Butler, Matthew J.},
+   title = {Do Voters Affect or Elect Policies? Evidence from the U. S. House},
+   journal = {The Quarterly Journal of Economics},
+   volume = {119},
+   number = {3},
+   pages = {807-859},
+   year = {2004}
+}
+
+@article{5158,
+   author = {Lengwiler, Yvan},
+   title = {Transparenz Bringt Auch Nachteile},
+   journal = {Neue Zürcher Zeitung},
+   pages = {18},
+   month = {08.01.2013},
+   entrysubtype = {newspapers},
+   year = {2013}
+}
+
+@article{5112,
+   author = {Levitt, Steven D.},
+   title = {How Do Senators Vote? Disentangling the Role of Voter Preferences, Party Affiliation, and Senator Ideology},
+   journal = {The American Economic Review},
+   volume = {86},
+   number = {3},
+   pages = {425-441},
+   year = {1996}
+}
+
+@article{5062,
+   author = {Mäder, Lukas},
+   title = {Wahlversprechen: Die 20 ehrlichsten Parlamentarier},
+   journal = {20 Minuten},
+   month = {February 05, 2013},
+   entrysubtype = {newspapers},
+   year = {2013}
+}
+
+@unpublished{5075,
+   author = {Mühlböck, Monika and Yordanova, Nikoletta},
+   title = {Party Group Cohesion in the European Parliament},
+   titleaddon = {Paper presented at the 2nd Annual General Conference of the European Political Science Association, Berlin, Germany, 21-23 June 2012},
+   year = {2012}
+}
+
+@article{4952,
+   author = {Nicolussi, Ronny},
+   title = {Ständerat Ist Keine Dunkelkammer Mehr},
+   journal = {Neue Zürcher Zeitung},
+   pages = {9},
+   month = {12.06.2012},
+   entrysubtype = {newspapers},
+   year = {2012}
+}
+
+@unpublished{5042,
+   author = {Portmann, Marco and Stadelmann, David},
+   title = {Testing the Median Voter Model and Moving Beyond Its Limits: Do Characteristics of Politicians Matter?},
+   titleaddon = {CREMA Working Paper No. 2013-05},
+   address = {CREMA, Center for Research in Economics, Management and the Arts},
+   year = {2013}
+}
+
+@article{4954,
+   author = {Portmann, Marco and Stadelmann, David and Eichenberger, Reiner},
+   title = {District Magnitude and Representation of the Majority’s Preferences: Evidence from Popular and Parliamentary Votes},
+   journal = {Public Choice},
+   volume = {151},
+   number = {3},
+   pages = {585-610},
+   year = {2012}
+}
+
+@article{5166,
+   author = {Prat, Andrea},
+   title = {The Wrong Kind of Transparency},
+   journal = {American Economic Review},
+   volume = {95},
+   number = {3},
+   pages = {862-877},
+   year = {2005}
+}
+
+@inbook{5167,
+   author = {Prat, Andrea},
+   title = {The More Closely We Are Watched, the Better We Behave?},
+   booktitle = {Transparency: The Key to Better Governance?},
+   editor = {Hood, Christopher and Heald, David},
+   publisher = {Oxford University Press},
+   address = {Oxford, UK},
+   year = {2006}
+}
+
+@unpublished{5060,
+   author = {Schädel, Lisa and Schwarz, Daniel},
+   title = {Swiss Reliability? An Empirical Comparison of Swiss MPs’ Pre- and Post-Electoral Positions},
+   titleaddon = {Paper presented at the Quatrième Congrès international du réseau francophone des Associations de Science politique «Être gouverné au 21e siècle», Brussels, April 20-22, 2011},
+   year = {2011}
+}
+
+@unpublished{5061,
+   author = {Schwarz, Daniel},
+   title = {How Representative Are Published Votes for Legislative Voting Behaviour?},
+   titleaddon = {Paper presented at the ECPR General Conference Section No. 6: “National Legislative Arenas in Europe”, Budapest, September 8-10, 2005},
+   year = {2005}
+}
+
+@phdthesis{5054,
+   author = {Schwarz, Daniel},
+   title = {Zwischen Fraktionszwang und Freiem Mandat. Eine Untersuchung des Fraktionsabweichenden Stimmverhaltens Im Schweizerischen Nationalrat Zwischen 1996 und 2005},
+   institution = {Universität Bern},
+   year = {2009}
+}
+
+@unpublished{5053,
+   author = {Schwarz, Daniel and Linder, Wolf},
+   title = {Fraktionsgeschlossenheit Im Schweizerischen Nationalrat 1996-2005},
+   titleaddon = {Studie im Auftrag der Parlamentsdienste der schweizerischen Bundesversammlung},
+   address = {Institut für Politikwissenschaft (IPW), Universität Bern},
+   year = {2007}
+}
+
+@article{5055,
+   author = {Schwarz, Daniel and Schädel, Lisa and Ladner, Andreas},
+   title = {Pre-Election Positions and Voting Behaviour in Parliament: Consistency among Swiss MPs},
+   journal = {Swiss Political Science Review},
+   volume = {16},
+   number = {3},
+   pages = {533-564},
+   year = {2010}
+}
+
+@article{4951,
+   author = {Senti, Martin},
+   title = {Keine Kollegialbehörde},
+   journal = {Neue Zürcher Zeitung},
+   pages = {21},
+   month = {08.06.2012},
+   entrysubtype = {newspapers},
+   year = {2012}
+}
+
+@article{5190,
+   author = {Snyder, James M. and Ting, Michael M.},
+   title = {Why Roll Calls? A Model of Position-Taking in Legislative Voting and Elections},
+   journal = {Journal of Law, Economics, and Organization},
+   volume = {21},
+   number = {1},
+   pages = {153-178},
+   year = {2005}
+}
+
+@unpublished{5056,
+   author = {Staatspolitischen Kommission des Ständerates},
+   title = {Parlamentarische Initiative Transparentes Abstimmungsverhalten. Bericht der Staatspolitischen Kommission des Ständerates},
+},
+   year = {2012}
+}
+
+@article{4883,
+   author = {Stadelmann, David and Portmann, Marco and Eichenberger, Reiner},
+   title = {Evaluating the Median Voter Model’s Explanatory Power},
+   journal = {Economics Letters},
+   volume = {114},
+   number = {3},
+   pages = {312-314},
+   year = {2012}
+}
+
+@article{4953,
+   author = {Stadelmann, David and Portmann, Marco and Eichenberger, Reiner},
+   title = {Quantifying Parliamentary Representation of Constituents’ Preferences with Quasi-Experimental Data},
+   journal = {Journal of Comparative Economics},
+   volume = {, forthcoming},
+   year = {2012}
+}
+
+@article{5159,
+   author = {Stadelmann, David and Portmann, Marco and Eichenberger, Reiner},
+   title = {Full Transparency of Politicians' Actions Does Not Increase the Quality of Political Representation},
+   journal = {Journal of Experimental Political Science},
+   volume = {1},
+   number = {01},
+   pages = {16-23},
+   year = {2014}
+}
+
+@unpublished{4948,
+   author = {Traber, Denise and Hug, Simon and Sciarini, Pascal},
+   title = {Party Unity in the Swiss Parliament. The Electoral Connection},
+   titleaddon = {Working Paper},
+   address = {University of Zurich and University of Geneva},
+   year = {2012}
+}
+
+@article{5113,
+   author = {Washington, Ebonya L.},
+   title = {Female Socialization: How Daughters Affect Their Legislator Fathers' Voting on Women's Issues},
+   journal = {The American Economic Review},
+   volume = {98},
+   number = {1},
+   pages = {311-332},
+   year = {2008}
+}

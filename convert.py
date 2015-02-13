@@ -1,10 +1,54 @@
+# Author:
+# 	Erik Vido <erik.vido@gmx.ch>
+#
+# Copyright:
+#     This program is free software: you can redistribute it and/or modify
+#     it under the terms of the GNU General Public License as published by
+#     the Free Software Foundation, either version 3 of the License, or
+#     (at your option) any later version.
+#
+#     This program is distributed in the hope that it will be useful,
+#     but WITHOUT ANY WARRANTY; without even the implied warranty of
+#     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#     GNU General Public License for more details.
+#
+#     You should have received a copy of the GNU General Public License
+#     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+
 import sys
 import os
 import re
 import codecs
 
+USAGE="""
+USAGE: python convert.py <source> [<dest>] [encoding]
 
+	source --	The path to the original file
+	dest -- 	Where the converted file will be written (optional).
+		If dest is not given, than it will be call the same as
+		source, but with an ending _converted, e.g. <source>_converted
+	encoding -- File-encoding of source, e.g. utf-8 (default). On linux-based systems
+		The encoding can be checked with the file-command:
 
+			> file -I <filename>
+
+DESCRIPTION:
+	Reads source-file and replaces characters with special meading in latex
+	with their latex-correspondance.
+"""
+
+# The following is a map from unicode-characters given in hex-code
+# to its correspondig latex representation. Note, that the latex-correspondance
+# is given as Python-Raw-Type (prevents need to escape backslashes).
+# 
+# Not all possible mappings are yet inserted, feel free to add more.
+# 
+# For unicode lookup see:
+#     http://unicodelookup.com/
+# A list of latex symbols can be found here:
+#     http://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf
+#     ftp://ftp.dante.de/tex-archive/biblio/biber/documentation/utf8-macro-map.html
 latex_equivalents = {
 	unichr(0x300): r'\`',
 	unichr(0x301): r'\'',
@@ -331,7 +375,15 @@ latex_equivalents = {
 	unichr(0x3A9): r'\Omega',
 }
 
+
 def convert(input):
+	"""
+	Returns a string with all occurences of unicode-characters found
+	in the latex_equivalents-mapping replaced by the mapping.
+
+	Arguments:
+	input -- string (unicode) 
+	"""
 	output = []
 	for c in input:
 		if c in latex_equivalents:
@@ -341,31 +393,30 @@ def convert(input):
 
 	return ''.join(output)
 
-def run_dry(orig):
-	with codecs.open(orig, mode='r', encoding='utf_8_sig') as source:
-		for line in source:
-			print(convert(line))
-
 def run(orig, target, encoding):
+	"""
+	Reads each line from 'orig' and writes it to 'target' after conversion.
+	'target' will have the same file-encoding as 'orig'
+
+	Arguments:
+	orig -- Path to source-file
+	target -- Path to destination-file
+	encoding -- the file-encoding of the source-file, e.g. 'utf-8'
+	"""
 	with codecs.open(orig, mode='r', encoding=encoding) as source:
 		with codecs.open(target, mode='w', encoding=encoding) as dest:
 			for line in source:
 				dest.write(convert(line))
-				# dest.write('\n')
 
+def target_from_source(filepath):
+	"""
+	Adds '_converted' to the filename (before suffix)
 
-USAGE="""
-USAGE: python convert_to_bibtex_format.py <source> [<dest>]
-
-	source	The path to the original file
-	dest	Where the converted file will be written (optional).
-		If dest is not given, than it will be call the same as
-		source, but with an ending _converted, e.g. <source>_converted
-"""
-
-def target_from_source(source):
-	dirname = os.path.dirname(source)
-	filename = os.path.basename(source)
+	Arguments:
+	filepath -- The file-path
+	"""
+	dirname = os.path.dirname(filepath)
+	filename = os.path.basename(filepath)
 	fileparts = filename.rsplit('.', 1)
 
 	target = fileparts[0] + '_converted'
@@ -388,17 +439,8 @@ if __name__ == '__main__':
 		sys.exit('Cannot find file: ' + orig)
 
 	target = target_from_source(orig) if len(sys.argv) < 3 else sys.argv[2]
+	encoding = sys.argv[3] if len(sys.argv) == 4 else 'utf-8' 
 
-	encoding = 'utf-8'
-	# encoding = 'utf_8_sig'
-	nbytes = { 
-		'utf-8':1,
-		'utf_8_sig':1,
-		'utf-16':2,
-		'utf-32':4,
-	}.get(encoding, 1) 
-
-	# run_dry(orig)
 	run(orig, target, encoding)
 
 	print('Wrote to file: ' + target)
